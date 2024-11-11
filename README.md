@@ -6,8 +6,8 @@
   <br><br>
 </p>
 
-[![Latest Stable Version](http://poser.pugx.org/phederal/leaf-lang/v)](https://packagist.org/packages/phederal/leaf-lang)
-[![Total Downloads](http://poser.pugx.org/phederal/leaf-lang/downloads)](https://packagist.org/packages/phederal/leaf-lang)
+[![Latest Stable Version](http://img.shields.io/packagist/v/phederal/leaf-lang)](https://packagist.org/packages/phederal/leaf-lang)
+[![Total Downloads](http://img.shields.io/packagist/dm/phederal/leaf-lang)](https://packagist.org/packages/phederal/leaf-lang)
 [![License](http://poser.pugx.org/phederal/leaf-lang/license)](https://packagist.org/packages/phederal/leaf-lang)
 
 Leaf Lang is a simple but powerful module that adds multi language capabilities to your leaf applications.
