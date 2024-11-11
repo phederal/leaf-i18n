@@ -1,0 +1,46 @@
+{
+    "name": "phederal/leaf-i18n",
+    "description": "A Leaf module to add multi language capabilities to leaf applications",
+    "keywords": [
+        "translations",
+        "localization",
+        "language",
+        "multi-language",
+        "i18n",
+        "internationalization",
+        "leaf",
+        "php"
+    ],
+    "type": "library",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "leafs/http": "*",
+        "leafs/session": "*",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "pestphp/pest": "^1.0",
+        "mockery/mockery": "^1.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leafi18n\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Roman Kurushin",
+            "email": "it@romon.io"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
